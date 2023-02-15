@@ -1,4 +1,4 @@
-package chapter2.itrm1;
+package chapter2.item1;
 
 /**
  * Bu obje static factory method örneği için luşturulmuştur.
